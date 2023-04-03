@@ -59,4 +59,4 @@
 
 ### [Mobile autotests](https://github.com/sakhr-qa-autotest/autotest_mobile) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
 
-### [API autotests](https://github.com/sakhr-qa-autotest) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
+### [API autotests](https://github.com/sakhr-qa-autotest/autotest_api) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
